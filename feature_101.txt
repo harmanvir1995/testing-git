@@ -1,0 +1,6 @@
+This is the file created by the git user in order to check the functionality of the git. 
+
+This is the text for the second commit to occur. 
+
+This is the text for the third commit. 
+
