@@ -1,1 +1,3 @@
 This is the commit done to the main branch by some other developer, in order to stimulate that there are a few more developers present in the team. 
+
+This is the second commit done to the main branch meanwhile user was working on the feature_101 branch
