@@ -1,0 +1,1 @@
+This is the file created by the git user in order to check the functionality of the git. 
